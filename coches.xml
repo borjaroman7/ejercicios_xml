@@ -1,0 +1,92 @@
+<concesionariocoches>
+     <marcas>
+         <nombre>BMW</nombre>
+         <pais>Alemania</pais>
+         <coches>
+            <modelo>BMW serie a2</modelo>
+            <matriculacion>2019</matriculacion>
+            <matricula>5436 GDS</matricula>
+            <nplazas>5 plazas</nplazas>
+            <cilindrada>8cc</cilindrada>
+         </coches>
+         <coches>
+            <modelo>BMW serie b5</modelo>
+            <matriculacion>2016</matriculacion>
+            <matricula>5434 ADS</matricula>
+            <nplazas>8 plazas</nplazas>
+            <cilindrada>5cc</cilindrada>
+         </coches>
+     </marcas>
+      <marcas>
+         <nombre>Lamborghini</nombre>
+         <pais>Arabia Saudi</pais>
+         <coches>
+            <modelo>Huracan</modelo>
+            <matriculacion>2018</matriculacion>
+            <matricula>1423 TES</matricula>
+            <nplazas>2 plazas</nplazas>
+            <cilindrada>20cc</cilindrada>
+         </coches>
+         <coches>
+            <modelo>Huracan performante</modelo>
+            <matriculacion>2019</matriculacion>
+            <matricula>5434 RET</matricula>
+            <nplazas>2 plazas</nplazas>
+            <cilindrada>25cc</cilindrada>
+         </coches>
+     </marcas>
+      <marcas>
+         <nombre>Audi</nombre>
+         <pais>España</pais>
+         <coches>
+            <modelo>audi a7</modelo>
+            <matriculacion>2013</matriculacion>
+            <matricula>5436 FHT</matricula>
+            <nplazas>5 plazas</nplazas>
+            <cilindrada>8cc</cilindrada>
+         </coches>
+         <coches>
+            <modelo>audi 2b</modelo>
+            <matriculacion>2016</matriculacion>
+            <matricula>2643 ADS</matricula>
+            <nplazas>5 plazas</nplazas>
+            <cilindrada>8cc</cilindrada>
+         </coches>
+     </marcas>
+      <marcas>
+         <nombre>Kia</nombre>
+         <pais>Francia</pais>
+         <coches>
+            <modelo>FALCON24</modelo>
+            <matriculacion>2012</matriculacion>
+            <matricula>4652 KDF</matricula>
+            <nplazas>5 plazas</nplazas>
+            <cilindrada>10cc</cilindrada>
+         </coches>
+         <coches>
+            <modelo>kia serie T</modelo>
+            <matriculacion>2016</matriculacion>
+            <matricula>6453 JHG</matricula>
+            <nplazas>5 plazas</nplazas>
+            <cilindrada>8cc</cilindrada>
+         </coches>
+     </marcas>
+      <marcas>
+         <nombre>Hyundai</nombre>
+         <pais>Rumania</pais>
+         <coches>
+            <modelo>Hyundai J3</modelo>
+            <matriculacion>2017</matriculacion>
+            <matricula>3726 JFG</matricula>
+            <nplazas>8 plazas</nplazas>
+            <cilindrada>16cc</cilindrada>
+         </coches>
+         <coches>
+            <modelo>Hyundai A4</modelo>
+            <matriculacion>2015</matriculacion>
+            <matricula>6352 KFG</matricula>
+            <nplazas>10 plazas</nplazas>
+            <cilindrada>8cc</cilindrada>
+         </coches>
+     </marcas>
+</concesionariocoches>
