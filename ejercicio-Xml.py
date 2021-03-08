@@ -1,18 +1,26 @@
 from funciones import *
+import sys
 
 fichero = "./proyecto_xml/ejercicios_xml/coches.xml"
 coches= leer_xml(fichero)
+opcion =0
+while opcion !=6:
 
-# ejercicio 1
-for i in lista_marcas(coches):
-    print(i)
+    if opcion == 1:
+        for i in lista_marcas(coches):
+            print(i)
 
-# ejercicio 2
+    if opcion == 2:
+        for coches, num in  zip(lista_marcas(coches) ,lista_numero_coches(coches)):
+            print( "Hay", num,"modelos diferentes de", coches)
+    if opcion == 3:
+        num_plazas = int(input("dime el numero de plazas "))
 
-for coches, num in  zip(lista_marcas(coches) ,lista_numero_coches(coches)):
-    print( "Hay", num,"modelos diferentes de", coches)
-# ejercicio 3
+        for i ,a in num_plazas_modelos(coches):
+            print (i,a)
+    if opcion == 4:
+        pass
 
-
-# ejercicio 4
-# ejercicio 5
+    if opcion == 5:
+        pass
+    opcion = menu(opcion)
