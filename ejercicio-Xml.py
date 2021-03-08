@@ -1,4 +1,4 @@
-from funciones import *
+from funciones import leer_xml, menu, num_plazas_modelos, lista_marcas, lista_numero_coches
 import sys
 
 fichero = "./proyecto_xml/ejercicios_xml/coches.xml"
